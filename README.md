@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1 align="center">
+  <img src="https://cdn.discordapp.com/attachments/844066513081335831/975742837037604894/NEW_.png" height=230><br>
+  Guarlic
+</h1>
+
+# Status
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Guarlic&show_icons=true&theme=merko&count_private=true)
+
+# Made
+## CdecBot
+[CdecBot Github Link](https://github.com/Guarlic/Kumyul)
 
 <!--
 **Guarlic/Guarlic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
